@@ -8,4 +8,4 @@ const Score = (props) => {
    );
 }
  
-export default Score;
+export default Score;           

@@ -5,8 +5,7 @@ const StudentList = (props) => {
     <div>
       {props.students.map((student, idx) =>
        <Student student={student}/>   
-          
-          )}
+      )}
     </div>
    );
 }

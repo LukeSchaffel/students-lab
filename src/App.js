@@ -1,7 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { useState } from "react"
-import Student from './Student';
 import StudentList from './StudentList';
 
 function App() {

@@ -18,4 +18,3 @@ const Student = (props) => {
  
 export default Student;
 
-// props.students.scores.map(container)
