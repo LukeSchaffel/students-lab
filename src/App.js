@@ -68,7 +68,10 @@ function App() {
   
   return (
     <div className="App">
+      <div className='Students'>
       <StudentList students={students} />
+      </div>
+
     </div>
   );
 }
